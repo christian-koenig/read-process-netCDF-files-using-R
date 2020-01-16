@@ -9,7 +9,7 @@
 - download all files from the list of links (e.g. using chrome simple mass downloader)
 
 ### Read netCDF files and process its data
-Hheck the R-script provided to see how to:
+Check the R-script provided to see how to:
 - quickly read a large number of netCDF files
 - create a date-variable from filenames
 - transform hierarchic, multidimensional data to more user-friendly 2d matrices/dataframes
